@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed Chaker Baaziz</h1>
-<h3 align="center">An Artificial Intelligence Student, Full stack web developer with PHP, Beginner Web developer with Flutter</h3>
+<h3 align="center">An Artificial Intelligence Student, Full stack web developer with PHP, Beginner Mobile developer with Flutter</h3>
 
 - 🌱 I’m currently learning **MERN Stack Development alongside with AI**
 
