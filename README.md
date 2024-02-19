@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development alongside with AI**
 
-- 📫 How to reach me **chakerbaaziz05@gmail.com**
+- 📫 How to reach me **mohammed.baaziz@ensia.edu.dz**
 
 - ⚡ Fun fact **even though I know it's not good, I like to learn in all fields.**
 
