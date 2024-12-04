@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Chaker Baaziz</h1>
-<h3 align="center">An Artificial Intelligence Enthusiast, Full stack web developer with PHP, Mobile developer with Flutter</h3>
+<h3 align="center">An Artificial Intelligence Enthusiast, Software Developer, AI enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedchakerbaaziz" alt="mohammedchakerbaaziz" /></a> </p>
 
-- 🌱 I’m currently learning **Laravel, MERN Stack**
+- 🌱 I’m currently exploring **different aspects and appilcations of machine learning and deep learning**
 
 - 📫 How to reach me **mohammed.baaziz@ensia.edu.dz**
 
