@@ -8,6 +8,7 @@
 - 🌱 I’m currently learning **different aspects and appilcations of machine learning and deep learning**
 
 - 📫 How to reach me **mohammed.baaziz@ensia.edu.dz**
+- My portfolio: **https://mohammed-chaker-baaziz.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
