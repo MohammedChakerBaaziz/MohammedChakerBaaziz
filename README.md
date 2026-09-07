@@ -252,29 +252,32 @@ I like working across the full research loop:
 
 <br/>
 
-## 05. GitHub
+## 05. GitHub Activity
 
 <div align="center">
 
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=MohammedChakerBaaziz&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000"
-/>
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedChakerBaaziz&layout=compact&hide_border=true&bg_color=00000000"
-/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://streak-stats.demolab.com?user=MohammedChakerBaaziz&theme=github-dark-blue&hide_border=true"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://streak-stats.demolab.com?user=MohammedChakerBaaziz&theme=default&hide_border=true"
+  />
+  <img
+    alt="GitHub contribution streak"
+    src="https://streak-stats.demolab.com?user=MohammedChakerBaaziz&hide_border=true"
+  />
+</picture>
 
 <br/><br/>
 
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedChakerBaaziz&hide_border=true&background=00000000"
-/>
+<a href="https://github.com/MohammedChakerBaaziz?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
-
-<br/>
 
 ## 06. Open To
 
