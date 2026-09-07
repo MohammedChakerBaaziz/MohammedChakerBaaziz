@@ -1,26 +1,307 @@
-<h1 align="center">Hi 👋, I'm Mohammed Chaker Baaziz</h1>
-<h3 align="center">An Artificial Intelligence Enthusiast, Software Developer, AI enthusiast</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedchakerbaaziz&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedchakerbaaziz" /> </p>
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Mohammed%20Chaker%20Baaziz&fontAlign=50&fontAlignY=35&desc=AI%20Research%20%C2%B7%20Research%20Engineering&descAlign=50&descAlignY=56&animation=fadeIn"
+width="100%"
+/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammedchakerbaaziz" alt="mohammedchakerbaaziz" /></a> </p>
+<img
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=900&center=true&vCenter=true&width=850&lines=Large+Language+Models+%26+Agentic+AI;Researching+and+Building+Intelligent+Systems;From+Papers+to+Experiments+to+Working+Systems;AI+Research+%C3%97+Engineering"
+/>
 
-- 🌱 I’m currently learning **different aspects and appilcations of machine learning and deep learning**
+<br/>
 
-- 📫 How to reach me **mohammed.baaziz@ensia.edu.dz**
-- My portfolio: **https://mohammed-chaker-baaziz.netlify.app/**
+<a href="https://github.com/MohammedChakerBaaziz">
+  <img src="https://img.shields.io/badge/GitHub-MohammedChakerBaaziz-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohammed-chaker-baaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammed-chaker-baaziz" height="30" width="40" /></a>
-<a href="https://kaggle.com/chakerbaaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="chakerbaaziz" height="30" width="40" /></a>
-</p>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedchakerbaaziz&show_icons=true&locale=en&layout=compact" alt="mohammedchakerbaaziz" /></p>
+## `> whoami`
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammedchakerbaaziz&show_icons=true&locale=en" alt="mohammedchakerbaaziz" /></p>
+```yaml
+name: Mohammed Chaker Baaziz
+location: Algeria 🇩🇿
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedchakerbaaziz&" alt="mohammedchakerbaaziz" /></p>
+focus:
+  - Large Language Models
+  - Agentic AI
+  - Research Engineering
+  - Efficient AI Systems
+
+interested_in:
+  - LLM reasoning
+  - AI agents
+  - tool use
+  - multi-agent systems
+  - efficient inference
+  - research systems
+
+currently:
+  - exploring research questions in LLMs and Agentic AI
+  - building research prototypes
+  - strengthening software and systems foundations
+  - working toward future PhD research
+```
+
+<br/>
+
+## 01. Research
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Agentic AI
+
+Systems that can **reason, plan, use tools, interact with environments and coordinate with other agents**.
+
+`Agents` · `Planning` · `Tool Use` · `Multi-Agent Systems`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 Large Language Models
+
+Understanding how modern language models **reason, adapt, interact and operate efficiently**.
+
+`LLMs` · `Reasoning` · `Inference` · `Fine-Tuning`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Efficient AI Systems
+
+Interested in the systems side of modern AI, including **model serving, routing, heterogeneous infrastructure and efficient inference**.
+
+`LoRA` · `Routing` · `Inference` · `Edge AI`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔬 Research Engineering
+
+Turning ideas from papers into **experiments, prototypes, pipelines and reproducible research code**.
+
+`Experimentation` · `Prototyping` · `Reproducibility`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 02. Technologies
+
+<div align="center">
+
+### AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=python,pytorch" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Hugging%20Face-Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-Data-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-013243?style=flat-square&logo=numpy&logoColor=white"/>
+
+<br/><br/>
+
+`LLMs` · `Transformers` · `NLP` · `Fine-Tuning` · `BERT` · `LoRA` · `AI Agents`
+
+<br/><br/>
+
+### Web & Application Development
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,html,css,tailwind,materialui,flask" />
+
+<br/><br/>
+
+`React` · `Next.js` · `JavaScript` · `Tailwind CSS` · `Material UI` · `Flask` · `REST APIs`
+
+<br/><br/>
+
+### Engineering
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,ubuntu,vscode,bash" />
+
+<br/><br/>
+
+`Git` · `GitHub` · `Linux` · `Shell` · `VS Code`
+
+<br/><br/>
+
+### Research Environment
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white"/>
+
+</div>
+
+<br/>
+
+## 03. Selected Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚡ Multi-LoRA Inference
+
+**Cost-Aware Routing for Multi-LoRA Inference on Heterogeneous Edge Clusters: An Online-Adaptive Approach**
+
+Graduation research on adaptive routing for serving multiple LoRA workloads across heterogeneous edge infrastructure.
+
+The work explored the intersection of **LLM inference, heterogeneous computing, routing and online adaptation**.
+
+`LLMs` · `LoRA` · `Routing` · `Edge Computing` · `Online Adaptation`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗣️ Algerian Cyberbullying Detection
+
+Fine-tuned **DziriBERT** for cyberbullying detection on an Algerian social-media dataset containing roughly **18K labeled samples**.
+
+`NLP` · `Transformers` · `DziriBERT` · `PyTorch` · `Darija`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 AI Internship Matching
+
+Worked on an intelligent platform designed to help Algerian students discover internships and automatically match candidates with relevant opportunities.
+
+`Recommendation` · `Matching` · `AI` · `Web Development`
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🕌 Islamic Finance AI
+
+Built an Islamic finance calculator integrating **LLM-based agents** with a web application for structured financial reasoning.
+
+<br/>
+
+<a href="https://github.com/MohammedChakerBaaziz/Islamic-Profit-Calculator">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+`LLM Agents` · `Gemini` · `Flask` · `Python`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 04. Current Direction
+
+```text
+Research
+├── Large Language Models
+│   ├── Reasoning
+│   ├── Inference
+│   └── Adaptation
+│
+├── Agentic AI
+│   ├── Planning
+│   ├── Tool Use
+│   └── Multi-Agent Systems
+│
+└── AI Systems
+    ├── Efficient Inference
+    ├── Routing
+    └── Research Engineering
+```
+
+<br/>
+
+<div align="center">
+
+### Research × Engineering
+
+I like working across the full research loop:
+
+**literature → question → hypothesis → experiment → implementation → analysis → iteration**
+
+<br/>
+
+<img src="https://img.shields.io/badge/Read-Papers-21262D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Build-Experiments-21262D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Analyze-Results-21262D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Iterate-21262D?style=for-the-badge"/>
+
+</div>
+
+<br/>
+
+## 05. GitHub
+
+<div align="center">
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api?username=MohammedChakerBaaziz&show_icons=true&hide_border=true&rank_icon=github&bg_color=00000000"
+/>
+
+<img
+height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedChakerBaaziz&layout=compact&hide_border=true&bg_color=00000000"
+/>
+
+<br/><br/>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedChakerBaaziz&hide_border=true&background=00000000"
+/>
+
+</div>
+
+<br/>
+
+## 06. Open To
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">🔬<br/><b>Research Collaborations</b></td>
+<td align="center">🤖<br/><b>AI / LLM Projects</b></td>
+<td align="center">🧪<br/><b>Research Assistant Roles</b></td>
+<td align="center">🎓<br/><b>PhD Opportunities</b></td>
+</tr>
+</table>
+
+<br/>
+
+### `LLMs · Agentic AI · AI Systems · Research Engineering`
+
+<br/>
+
+<sub>Interested in understanding intelligent systems deeply enough to build better ones.</sub>
+
+</div>
+
+<br/>
+
+<img
+src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer"
+width="100%"
+/>
